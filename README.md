@@ -1,8 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome&fontAlign=53&fontAlignY=40&color=gradient&customColorList=0)
 
 
+<div align=right>
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnh0317%2Fhit-counter&count_bg=%23FFC9C9&title_bg=%23555555&icon=github.svg&icon_color=%23E8E8E8&title=hits&edge_flat=false)
+
+</div>
+
 <div align=center>
- 
+
 # Tech Stack 
 Techs that I learned
  
@@ -41,7 +47,9 @@ Techs that I learned
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nh0317&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nh0317&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
+
 
 ## Tech Blog
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=coding&theme=defualt)](https://record-of-coding.tistory.com/)
