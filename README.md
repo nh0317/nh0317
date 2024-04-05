@@ -32,6 +32,6 @@ Techs that I learned
 
 </div>
 
-
 ## Tech Blog
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=coding&theme=defualt)](https://record-of-coding.tistory.com/)
+[<img src="https://img.shields.io/badge/Velog-20C9971?style=flat-square&logo=Velog&logoColor=white"/>](https://velog.io/@nh0317/posts)  (블로그 이전) <br>
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=coding&theme=defualt)](https://record-of-coding.tistory.com/) <br>
